@@ -1,6 +1,6 @@
 ## Ricardo Rivero
 
-Software Engineer and founder of 🪝[Hook Studio](https://hookstudio.ai)
+SWE, founder 🪝[Hook Studio](https://hookstudio.ai)
 
 - LinkedIn: [@ricardoriverolx](https://www.linkedin.com/in/ricardoriverolx/)
 - X/Twitter: [@itsrickyszn](https://x.com/itsrickyszn)
