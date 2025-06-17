@@ -8,5 +8,5 @@ SWE, founder 🪝[Hook Studio](https://hookstudio.ai)
 - Bio: [Notion](https://ricardo-season.notion.site/Ricardo-Rivero-73223c155f5043caa52db0fc4d8f467e?pvs=4)
 
 ## Technology
-- 🔭 I’m currently building AI Agents and testing them under Season AI
-- 🧰 React, React Native, Typescript and Python
+- 🔭 Building AI Agents
+- 🧰 Typescript, Python, React
