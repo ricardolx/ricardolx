@@ -1,11 +1,12 @@
 ## Ricardo Rivero
 
-staff software engineer
+**Staff Software Engineer**
 
-founder 
+Founder:
 
-🪝[Hook Studio](https://hookstudio.ai)
-🏡[REdelegate](https://redelegate.app)
+🪝 [Hook Studio](https://hookstudio.ai)
+
+🏡 [REdelegate](https://redelegate.app)
 
 - LinkedIn: [@ricardoriverolx](https://www.linkedin.com/in/ricardoriverolx/)
 - Contact: [ricardo@hookstudio.ai](mailto:ricardo@hookstudio.ai)
