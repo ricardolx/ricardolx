@@ -1,6 +1,11 @@
 ## Ricardo Rivero
 
-SWE, founder 🪝[Hook Studio](https://hookstudio.ai)
+staff software engineer
+
+founder 
+
+🪝[Hook Studio](https://hookstudio.ai)
+🏡[REdelegate](https://redelegate.app)
 
 - LinkedIn: [@ricardoriverolx](https://www.linkedin.com/in/ricardoriverolx/)
 - Contact: [ricardo@hookstudio.ai](mailto:ricardo@hookstudio.ai)
